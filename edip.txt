@@ -1,0 +1,7 @@
+git init -> tạo ra 1 repository
+git clone -> kéo git trên mạng về 
+git add -> thêm file để đẩy lên
+git commit -> đẩy code thay đổi lên máy
+git push orgin mian -> đẩy code lên mạng
+git pull -> cập nhật thay đổi
+sourceTree
