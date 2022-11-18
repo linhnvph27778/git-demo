@@ -5,3 +5,4 @@ git commit -> đẩy code thay đổi lên máy
 git push orgin mian -> đẩy code lên mạng
 git pull -> cập nhật thay đổi
 sourceTree
+moicckv
